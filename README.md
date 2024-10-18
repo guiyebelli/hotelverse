@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 Nextjs version: v14.2.15
+
 Node version: v18.20.4
 
 ## Getting Started
@@ -27,8 +28,10 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## Style
+## Use in this project
 
 Components: https://www.creative-tim.com/twcomponents
+
 Store: https://redux-toolkit.js.org/
+
 Icons: https://react-icons.github.io/react-icons/
